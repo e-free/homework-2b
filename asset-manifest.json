@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/e-free.github.io/homework-2b/static/css/main.6fc2119b.css",
-    "main.js": "/e-free.github.io/homework-2b/static/js/main.26e0408f.js",
-    "static/js/787.9451a1b7.chunk.js": "/e-free.github.io/homework-2b/static/js/787.9451a1b7.chunk.js",
-    "index.html": "/e-free.github.io/homework-2b/index.html",
-    "main.6fc2119b.css.map": "/e-free.github.io/homework-2b/static/css/main.6fc2119b.css.map",
-    "main.26e0408f.js.map": "/e-free.github.io/homework-2b/static/js/main.26e0408f.js.map",
-    "787.9451a1b7.chunk.js.map": "/e-free.github.io/homework-2b/static/js/787.9451a1b7.chunk.js.map"
+    "main.css": "/homework-2b/static/css/main.6fc2119b.css",
+    "main.js": "/homework-2b/static/js/main.d232fd1b.js",
+    "static/js/787.9451a1b7.chunk.js": "/homework-2b/static/js/787.9451a1b7.chunk.js",
+    "index.html": "/homework-2b/index.html",
+    "main.6fc2119b.css.map": "/homework-2b/static/css/main.6fc2119b.css.map",
+    "main.d232fd1b.js.map": "/homework-2b/static/js/main.d232fd1b.js.map",
+    "787.9451a1b7.chunk.js.map": "/homework-2b/static/js/787.9451a1b7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6fc2119b.css",
-    "static/js/main.26e0408f.js"
+    "static/js/main.d232fd1b.js"
   ]
 }
