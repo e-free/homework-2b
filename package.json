@@ -1,7 +1,7 @@
 {
   "name": "homework-2b",
-  "version": "0.1.0",
-  "homepage": "e-free.github.io/homework-2b",
+  "version": "0.1.1",
+  "homepage": "https://e-free.github.io/homework-2b",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
